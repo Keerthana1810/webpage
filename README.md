@@ -39,6 +39,11 @@ https://drive.google.com/file/d/1VKS8XU6pqpDDco1Bg8ktzieb5PtnLcmX/view?usp=shari
 
 ## Main Page:
 
+![main page](https://user-images.githubusercontent.com/72696386/97339820-0d808c00-18a9-11eb-8bcf-c36a18178172.jpg)
+
+## Taj Mahal:
+
+
 ## Petra
 
 ![screencapture-immediatemistyrosecharmap-18pa1a04f0-repl-co-petra-html-2020-10-27-19_49_45](https://user-images.githubusercontent.com/72696386/97338965-03aa5900-18a8-11eb-99ea-43ceb64bc7be.jpg)
