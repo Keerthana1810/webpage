@@ -1,14 +1,31 @@
-# webpage
+# WebPage-Frontend
 
-#Team Members
-
+# Team Members:
 1.18PA1A04F0
-
 2.18PA1A04F8
-
 3.19PA1A0151
 
-#Information About our project
+# Information about our project:
+ Brief explanation about 7 wonders of the world.
+ 
+ # repl.it link:
+ 
+ https://repl.it/@18pa1a04f0/18pa1a04f0#index.html
 
-Web pages which show the 7 wonders of the world.
+# Video:
 
+https://drive.google.com/file/d/1VKS8XU6pqpDDco1Bg8ktzieb5PtnLcmX/view?usp=sharing
+
+# Link of different web pages:
+1.https://18pa1a04f0.repl.co/
+2.https://18pa1a04f0.repl.co/tajmahal.html
+3.https://18pa1a04f0.repl.co/wallofchina.html
+4.https://18pa1a04f0.repl.co/pyramid.html
+5.https://18pa1a04f0.repl.co/christ.html
+6.https://18pa1a04f0.repl.co/roman.html
+7.https://18pa1a04f0.repl.co/machu.html
+8.https://18pa1a04f0.repl.co/petra.html
+
+# Images of web pages:
+
+## Intro page
