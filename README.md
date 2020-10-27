@@ -47,6 +47,10 @@ https://drive.google.com/file/d/1VKS8XU6pqpDDco1Bg8ktzieb5PtnLcmX/view?usp=shari
 
 ## Great wall of china:
 
+![great wall of china](https://user-images.githubusercontent.com/72696386/97340219-808a0280-18a9-11eb-975b-8c5480bb0866.jpg)
+
+## Pyramid at Chinchen:
+
 
 
 
