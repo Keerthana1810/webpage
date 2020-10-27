@@ -51,6 +51,10 @@ https://drive.google.com/file/d/1VKS8XU6pqpDDco1Bg8ktzieb5PtnLcmX/view?usp=shari
 
 ## Pyramid at Chinchen:
 
+![pyramid](https://user-images.githubusercontent.com/72696386/97340362-b0d1a100-18a9-11eb-889f-553578d8d0da.jpg)
+
+##
+
 
 
 
