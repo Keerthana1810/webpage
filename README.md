@@ -63,10 +63,7 @@ https://drive.google.com/file/d/1VKS8XU6pqpDDco1Bg8ktzieb5PtnLcmX/view?usp=shari
 
 ## Maachu:
 
-
-
-
-
+![machu](https://user-images.githubusercontent.com/72696386/97340767-32c1ca00-18aa-11eb-925f-819d5c505b7d.jpg)
 
 ## Petra
 
