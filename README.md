@@ -59,6 +59,12 @@ https://drive.google.com/file/d/1VKS8XU6pqpDDco1Bg8ktzieb5PtnLcmX/view?usp=shari
 
 ## Christ:
 
+![christ](https://user-images.githubusercontent.com/72696386/97340603-027a2b80-18aa-11eb-96df-159118bd0ea8.jpg)
+
+## Maachu:
+
+
+
 
 
 
