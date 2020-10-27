@@ -43,6 +43,12 @@ https://drive.google.com/file/d/1VKS8XU6pqpDDco1Bg8ktzieb5PtnLcmX/view?usp=shari
 
 ## Taj Mahal:
 
+![taj mahal](https://user-images.githubusercontent.com/72696386/97339983-3e60c100-18a9-11eb-8efe-939d539e9fd9.jpg)
+
+## Great wall of china:
+
+
+
 
 ## Petra
 
