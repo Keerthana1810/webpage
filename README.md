@@ -1,6 +1,6 @@
 # webpage
 
-##Team Members
+#Team Members
 
 1.18PA1A04F0
 
@@ -8,7 +8,7 @@
 
 3.19PA1A0151
 
-##Information About our project
+#Information About our project
 
 Web pages which show the 7 wonders of the world.
 
