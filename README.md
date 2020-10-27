@@ -2,7 +2,9 @@
 
 # Team Members:
 1.18PA1A04F0
+
 2.18PA1A04F8
+
 3.19PA1A0151
 
 # Information about our project:
@@ -18,14 +20,24 @@ https://drive.google.com/file/d/1VKS8XU6pqpDDco1Bg8ktzieb5PtnLcmX/view?usp=shari
 
 # Link of different web pages:
 1.https://18pa1a04f0.repl.co/
+
 2.https://18pa1a04f0.repl.co/tajmahal.html
+
 3.https://18pa1a04f0.repl.co/wallofchina.html
+
 4.https://18pa1a04f0.repl.co/pyramid.html
+
 5.https://18pa1a04f0.repl.co/christ.html
+
 6.https://18pa1a04f0.repl.co/roman.html
+
 7.https://18pa1a04f0.repl.co/machu.html
+
 8.https://18pa1a04f0.repl.co/petra.html
 
 # Images of web pages:
 
 ## Intro page
+
+![screencapture-immediatemistyrosecharmap-18pa1a04f0-repl-co-petra-html-2020-10-27-19_49_45](https://user-images.githubusercontent.com/72696386/97338965-03aa5900-18a8-11eb-99ea-43ceb64bc7be.jpg)
+
