@@ -1,0 +1,43 @@
+.title{
+	text-align: center;
+	color:maroon;
+	font-size:bold; 
+}
+.img{
+	text-align: center;
+}
+.vy{
+background-color:#2f4f4f;
+color:white;
+padding-left: 20px;
+padding-right: 20px;
+font-size:25;
+}
+.ra{
+	text-align:right;
+}
+h4{
+	font-size:unset;
+	padding-top: 20px;
+}
+.bi{
+	background-color:#e9967a;
+	color:black;
+	padding-left:20px;
+	padding-right:20px;
+	font-size:25;
+}
+.ha{
+	background-color:#8b0000;
+	color:white;
+	padding-left:20px;
+	padding-right: 20px;
+	font-size:25;
+}
+.pa{
+	background-color:#dcdcdc;
+	color:black;
+	padding-left:20px;
+	padding-right:20px;
+	font-size:25;
+}
